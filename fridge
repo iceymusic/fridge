@@ -1,4 +1,5 @@
-#!/bin/python3
+#!/usr/bin/env python3
+
 from moviepy.editor import *
 from math import trunc
 from sys import argv, exit
